@@ -24,7 +24,7 @@ window.SUBTLEPATTERNS = [
   download: "/patterns/binding_dark.zip"
   image: "/patterns/binding_dark.png"
   title: "Binding dark"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
 ,
   link: "http://subtlepatterns.com/ps-neutral/"
   description: "This one is so simple, yet so good. And you know it. Has to be in the collection."
@@ -108,7 +108,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/black_lozenge.zip"
   image: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/black_lozenge.png"
   title: "Вlack lozenge"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "38x38"
 ,
   image_size: "3K"
@@ -163,7 +163,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/pw_maze_black.zip"
   image: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/pw_maze_black.png"
   title: "Maze black"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "46x23"
 ,
   image_size: "137B"
@@ -284,7 +284,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_dark.zip"
   image: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_dark.png"
   title: "Debut dark"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+"]
   image_dimensions: "200x200"
 ,
   image_size: "18K"
@@ -559,7 +559,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/dark_Tire.zip"
   image: "http://subtlepatterns.com/patterns/dark_Tire.png"
   title: "Dark Tire"
-  categories: ["dark", "tire"]
+  categories: ["dark", "tire", "reboot"]
   image_dimensions: "250x250"
 ,
   image_size: "6K"
@@ -768,7 +768,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/pinstriped_suit.zip"
   image: "http://subtlepatterns.com/patterns/pinstriped_suit.png"
   title: "Pinstriped Suit"
-  categories: ["dark", "suit"]
+  categories: ["dark", "suit", "reboot", "reboot+"]
   image_dimensions: "400x333"
 ,
   image_size: "240B"
@@ -1021,7 +1021,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/dark_geometric.zip"
   image: "http://subtlepatterns.com/patterns/dark_geometric.png"
   title: "Dark Geometric"
-  categories: ["dark", "geometric"]
+  categories: ["dark", "geometric", "reboot"]
   image_dimensions: "70x70"
 ,
   image_size: "5K"
@@ -1065,7 +1065,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/classy_fabric.zip"
   image: "http://subtlepatterns.com/patterns/classy_fabric.png"
   title: "Classy Fabric"
-  categories: ["classy", "dark", "fabric"]
+  categories: ["classy", "dark", "fabric", "reboot", "reboot+"]
   image_dimensions: "102x102"
 ,
   image_size: "911B"
@@ -1153,7 +1153,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/darkdenim3.zip"
   image: "http://subtlepatterns.com/patterns/darkdenim3.png"
   title: "Dark Denim 3"
-  categories: ["dark", "denim"]
+  categories: ["dark", "denim", "reboot", "reboot+"]
   image_dimensions: "420x326"
 ,
   image_size: "255B"
@@ -1263,7 +1263,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/nami.zip"
   image: "http://subtlepatterns.com/patterns/nami.png"
   title: "Nami"
-  categories: ["anime", "asian", "dark"]
+  categories: ["anime", "asian", "dark", "reboot"]
   image_dimensions: "16x16"
 ,
   image_size: "154B"
@@ -1296,7 +1296,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/denim.zip"
   image: "http://subtlepatterns.com/patterns/denim.png"
   title: "Dark Denim"
-  categories: ["dark", "denim"]
+  categories: ["dark", "denim", "reboot", "reboot+"]
   image_dimensions: "135x135"
 ,
   image_size: "101K"
@@ -1362,7 +1362,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/fake_brick.zip"
   image: "http://subtlepatterns.com/patterns/fake_brick.png"
   title: "Fake brick"
-  categories: ["dark", "dots"]
+  categories: ["dark", "dots", "reboot"]
   image_dimensions: "76x76"
 ,
   image_size: "295B"
@@ -1605,7 +1605,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/px_by_Gre3g.zip"
   image: "http://subtlepatterns.com/patterns/px_by_Gre3g.png"
   title: "3px tile"
-  categories: ["dark", "square", "tile"]
+  categories: ["dark", "square", "tile", "reboot"]
   image_dimensions: "100x100"
 ,
   image_size: "276K"
@@ -1638,7 +1638,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/diagmonds.zip"
   image: "http://subtlepatterns.com/patterns/diagmonds.png"
   title: "Diagmonds"
-  categories: ["dark", "diamond"]
+  categories: ["dark", "diamond", "reboot"]
   image_dimensions: "141x142"
 ,
   image_size: "46K"
@@ -2133,7 +2133,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/robots.zip"
   image: "http://subtlepatterns.com/patterns/robots.png"
   title: "Robots"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+"]
   image_dimensions: "200x200"
 ,
   image_size: "5K"
@@ -2210,7 +2210,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/crissXcross.zip"
   image: "http://subtlepatterns.com/patterns/crissXcross.png"
   title: "crissXcross"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+"]
   image_dimensions: "512x512"
 ,
   image_size: "85K"
@@ -2254,7 +2254,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/black_linen_v2.zip"
   image: "http://subtlepatterns.com/patterns/black_linen_v2.png"
   title: "Black linen 2"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+"]
   image_dimensions: "640x640"
 ,
   image_size: "1004B"
@@ -2518,7 +2518,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/black_paper.zip"
   image: "http://subtlepatterns.com/patterns/black_paper.png"
   title: "Black paper"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "400x400"
 ,
   image_size: "353B"
@@ -2716,7 +2716,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/office.zip"
   image: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/office.png"
   title: "Office"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "70x70"
 ,
   image_size: "44K"
@@ -2771,7 +2771,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/black_denim.zip"
   image: "http://subtlepatterns.com/patterns/black_denim.png"
   title: "Dark denim"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+/"]
   image_dimensions: "145x145"
 ,
   image_size: "74K"
@@ -2903,7 +2903,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/tactile_noise.zip"
   image: "http://subtlepatterns.com/patterns/tactile_noise.png"
   title: "Tactile noise"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "48x48"
 ,
   image_size: "142B"
@@ -3057,7 +3057,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/use_your_illusion.zip"
   image: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/use_your_illusion.png"
   title: "Use Your Illusion"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "54x58"
 ,
   image_size: "17K"
@@ -3156,7 +3156,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/low_contrast_linen.zip"
   image: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/low_contrast_linen.png"
   title: "Low Contrast Linen"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+"]
   image_dimensions: "256x256"
 ,
   image_size: "56K"
@@ -3409,7 +3409,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/dark_wall.zip"
   image: "http://subtlepatterns.com/patterns/dark_wall.png"
   title: "Dark Wall"
-  categories: ["dark"]
+  categories: ["dark", "reboot", "reboot+"]
   image_dimensions: "300x300"
 ,
   image_size: "47K"
@@ -3541,7 +3541,7 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/txture.zip"
   image: "http://subtlepatterns.com/patterns/txture.png"
   title: "Txture"
-  categories: ["dark"]
+  categories: ["dark", "reboot"]
   image_dimensions: "400x300"
 ,
   image_size: "6K"
@@ -3585,6 +3585,6 @@ window.SUBTLEPATTERNS = [
   download: "http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/cartographer.zip"
   image: "http://subtlepatterns.com/patterns/cartographer.png"
   title: "Cartographer"
-  categories: ["cartographer", "dark", "topography"]
+  categories: ["cartographer", "dark", "topography", "reboot", "reboot+"]
   image_dimensions: "500x499"
 ]
